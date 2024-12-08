@@ -1,8 +1,8 @@
 module github.com/abdivasiyev/themes
 
-go 1.21.5
+go 1.23
 
-require github.com/abdivasiyev/go-admin v1.0.1
+require github.com/abdivasiyev/go-admin v1.0.2
 
 require (
 	github.com/GoAdminGroup/html v0.0.1 // indirect
